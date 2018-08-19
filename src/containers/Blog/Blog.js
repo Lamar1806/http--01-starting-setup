@@ -20,10 +20,10 @@ class Blog extends Component {
                 <section>
                     <NewPost /> 
                 </section>
-                
+
             </div>
         );
     }
-}
+} 
 
 export default Blog;
