@@ -18,8 +18,9 @@ class Blog extends Component {
                     <FullPost />
                 </section>
                 <section>
-                    <NewPost />
+                    <NewPost /> 
                 </section>
+                
             </div>
         );
     }
